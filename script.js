@@ -20,8 +20,8 @@ const notes = [
   {f:523,d:1,t:"Birth",p:p3},
   {f:440,d:1,t:"day&nbsp;",p:p3},
   {f:349,d:1,t:"Dear&nbsp;",p:p3},
-  {f:330,d:1,t:"Frie",p:p3},
-  {f:294,d:3,t:"nd",p:p3},
+  {f:330,d:1,t:"Mom",p:p3},
+  {f:294,d:3,t:"my",p:p3},
   
   {f:466,d:.5,t:"Hap",p:p4},
   {f:466,d:.5,t:"py&nbsp;",p:p4},
